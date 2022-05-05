@@ -2,11 +2,6 @@
 
 Research aiming at using previous PSA values, temporal features (BMI, comorbidities)  and static features (reports, race, age at diagnosis) to predict future PSA value
 
-
-In this repository, we record our research aimed at 
-  
-Our version of the MCCD algorithm with the integrated neural networks can be found <a href="https://github.com/aziz-ayed/mccd.git" target="_blank" style="text-decoration:none; color: #F08080">here</a>.
-
 1. [Packages Used](#packages-used)
 1. [Datasets](#datasets)
 1. [Models](#models)
